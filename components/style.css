@@ -43,7 +43,7 @@ p{
 
 
 .sidebar{
-  position: fixed;
+  position: relative;
   left: 0;
   top: 0;
   height: 100%;
