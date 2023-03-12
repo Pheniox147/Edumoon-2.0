@@ -4622,7 +4622,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/home_bg4.jpg) no-repeat center center / cover; */
+    /* background: url(./img/home_bg4.jpg) no-repeat center center / cover; */
     opacity: 0.9;
     width: 100%;
     z-index: -999;
@@ -4664,7 +4664,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: black url(../img/parallax_bg.jpg) no-repeat center center / cover; */
+    /* background: black url(./img/parallax_bg.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   #index__page .section__home .home-video__bg {
@@ -4699,7 +4699,7 @@
   }
   #index__page .section__about {
     padding: 80px 0;
-    /* background: url(../img/about_bg.jpg) no-repeat center center / cover; */
+    /* background: url(./img/about_bg.jpg) no-repeat center center / cover; */
     text-align: center;
     position: relative;
     /*** 3.1. Section Ð°bout icon ***/
@@ -4802,7 +4802,7 @@
   }
   #index__page .section__courses {
     padding: 100px 0;
-    /* background: url(../img/courses_bg.jpg) no-repeat center center / cover; */
+    /* background: url(./img/courses_bg.jpg) no-repeat center center / cover; */
     text-align: center;
     position: relative;
     /*** 4.1. Courses item wrapper ***/
@@ -5125,7 +5125,7 @@
     left: 0;
   }
   #index__page .section__features {
-    /* background: url(../img/features_bg.jpg) no-repeat center center / cover; */
+    /* background: url(./img/features_bg.jpg) no-repeat center center / cover; */
     position: relative;
     color: #ffffff;
     display: -webkit-box;
@@ -5694,7 +5694,7 @@
   }
   #index__page .section__testimonials {
     padding: 100px 0;
-    /* background: url(../img/testimonials_bg.jpg) no-repeat center center / cover; */
+    /* background: url(./img/testimonials_bg.jpg) no-repeat center center / cover; */
     text-align: center;
     position: relative;
     /*** 12.1. Testimonials icon ***/
@@ -6137,7 +6137,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/about_img.jpg) no-repeat center bottom / cover; */
+    /* background: url(./img/about_img.jpg) no-repeat center bottom / cover; */
     z-index: -999;
   }
   #about__page .section__features {
@@ -6406,7 +6406,7 @@
   }
   #about__page .section__testimonials {
     padding: 100px 0;
-    /* background: url(../img/testimonials_bg.jpg) no-repeat center center / cover; */
+    /* background: url(./img/testimonials_bg.jpg) no-repeat center center / cover; */
     text-align: center;
     position: relative;
   }
@@ -6748,7 +6748,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/about_img.jpg) no-repeat center bottom / cover; */
+    /* background: url(./img/about_img.jpg) no-repeat center bottom / cover; */
     z-index: -999;
   }
   #blog__page .section__blog {
@@ -7231,7 +7231,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/about_img.jpg) no-repeat center bottom / cover; */
+    /* background: url(./img/about_img.jpg) no-repeat center bottom / cover; */
     z-index: -999;
   }
   #blog-grid__page .section__blog {
@@ -7526,7 +7526,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/about_img.jpg) no-repeat center bottom / cover; */
+    /* background: url(./img/about_img.jpg) no-repeat center bottom / cover; */
     z-index: -999;
   }
   #blog-item__page .section__blog-item {
@@ -8041,7 +8041,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/contact_img.jpg) no-repeat center center / cover; */
+    /* background: url(./img/contact_img.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   #contact__page .section__location {
@@ -8204,7 +8204,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/courses_img-1.jpg) no-repeat center center / cover; */
+    /* background: url(./img/courses_img-1.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   #courses__page .section__courses {
@@ -8377,7 +8377,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/courses_img.jpg) no-repeat center center / cover; */
+    /* background: url(./img/courses_img.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   #course-single__page .section__course-single {
@@ -8968,7 +8968,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/events_img.jpg) no-repeat center center / cover; */
+    /* background: url(./img/events_img.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   #events__page .section__categories {
@@ -9480,7 +9480,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/events_img.jpg) no-repeat center center / cover; */
+    /* background: url(./img/events_img.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   #single-event__page .section__event {
@@ -9994,7 +9994,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/teachers_img.jpg) no-repeat center center / cover; */
+    /* background: url(./img/teachers_img.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   #teachers__page .section__teachers {
@@ -10204,7 +10204,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/teachers_img.jpg) no-repeat center center / cover; */
+    /* background: url(./img/teachers_img.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   #teacher-profile__page .section__teacher-profile {
@@ -10543,7 +10543,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/404page_bg.jpg) no-repeat center center / cover; */
+    /* background: url(./img/404page_bg.jpg) no-repeat center center / cover; */
     z-index: -999;
   }
   /**
@@ -10717,7 +10717,7 @@
     right: 0;
     bottom: 0;
     left: 0;
-    /* background: url(../img/slide_bg_2.jpg) no-repeat right center / cover; */
+    /* background: url(./img/slide_bg_2.jpg) no-repeat right center / cover; */
     z-index: -999;
   }
   #layouts .section_layouts {
@@ -10856,13 +10856,13 @@
     }
   }
   .carousel .carousel-inner .item__1 {
-    /* background: url('../img/slide_bg_1.jpg') no-repeat center center / cover; */
+    /* background: url('./img/slide_bg_1.jpg') no-repeat center center / cover; */
   }
   .carousel .carousel-inner .item__2 {
-    /* background: url('../img/slide_bg_2.jpg') no-repeat center center / cover; */
+    /* background: url('./img/slide_bg_2.jpg') no-repeat center center / cover; */
   }
   .carousel .carousel-inner .item__3 {
-    /* background: url('../img/slide_bg_3.jpg') no-repeat center center / cover; */
+    /* background: url('./img/slide_bg_3.jpg') no-repeat center center / cover; */
   }
   .carousel .carousel-control {
     display: block;
